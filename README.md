@@ -125,5 +125,5 @@ Para hacer la segmentación se utilizó Los vecinos mas cercanos KMEANS, obtenie
     </td>
   </tr>
 </table>
-
+con la siguiente métrica de evaluación **AUC-ROC: 0.7108018085367853**
 
