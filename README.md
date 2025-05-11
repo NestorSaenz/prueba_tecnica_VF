@@ -129,6 +129,6 @@ con la siguiente métrica de evaluación *AUC-ROC: 0.7108018085367853*
 
 En el siguiente grafico se observa la distribución de la segmentación
 
-![Distribución de la Segmentación](https://github.com/NestorSaenz/prueba_tecnica_VF/blob/main/imagenes/grafico_segmentacion.png)
+![Distribución de la Segmentación](https://github.com/NestorSaenz/prueba_tecnica_VF/blob/main/imagenes/grafica_segmentacion.png)
 
 
