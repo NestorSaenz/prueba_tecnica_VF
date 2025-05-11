@@ -172,5 +172,25 @@ Cada mensaje personalizado incluye:
 
 -Métricas específicas de uso
 
+En el siguiente párrafo se puede ver un ejemplo de un mensaje personalizado para una persona segmentada como de riesgo medio:
+"Estimado/a [Nombre del Cliente],
+
+Espero que este mensaje le encuentre bien. Nos complace observar que su nivel actual de engagement con VoiceFlip es de 5.35, lo cual refleja un uso constante y significativo de nuestra plataforma. Además, su probabilidad de abandono, calculada en un 0.05, confirma una relación estable con nuestros servicios. ¡Gracias por confiar en nosotros!
+
+Para continuar optimizando su experiencia y el valor que obtiene de VoiceFlip, me gustaría recomendarle dos de nuestras soluciones más avanzadas que pueden complementar su flujo de trabajo actual:
+
+1. **VoiceFlip Insights Pro**: Esta herramienta avanzada de análisis le permitirá profundizar aún más en los patrones de uso de voz y audio, proporcionando métricas predictivas que pueden mejorar la toma de decisiones en tiempo real.
+
+2. **VoiceFlip API Connect**: Integrar esta solución a su sistema actual le permitirá personalizar aún más el procesamiento de voz, adaptándolo a las necesidades específicas de su negocio. Es ideal para empresas que buscan flexibilidad y escalabilidad.
+
+Ambas soluciones están diseñadas para maximizar los beneficios de nuestra plataforma y habilitar su crecimiento continuo. Me encantaría coordinar una breve llamada o demostración personalizada para explorar cómo estas herramientas pueden adaptarse a sus objetivos.
+
+Por favor, no dude en responder a este correo o contactarme directamente al [número de teléfono] para agendar una reunión. Estamos aquí para apoyarle en cada paso del camino.
+
+Atentamente,  
+[Nombre y Apellido]  
+Especialista en Retención de Clientes  
+VoiceFlip  "
+
 
 
