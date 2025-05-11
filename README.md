@@ -133,6 +133,7 @@ En el siguiente grafico se observa la distribución de la segmentación
 
 ## 2. **Mensajes personalizados**
 En este apartadon se implementa un sistema de generación automática de mensajes personalizados para clientes, utilizando Azure OpenAI y datos de segmentación de usuarios.
+
 🔄 Proceso
 1. Configuración Inicial
 - Inicialización del cliente Azure OpenAI
