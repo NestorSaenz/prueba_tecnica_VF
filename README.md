@@ -15,6 +15,9 @@ Este proyecto implementa:
 
 ## 🛠️ Estructura del Proyecto
 
+![Estructura](https://github.com/NestorSaenz/prueba_tecnica_VF/blob/main/imagenes/estructura.jpg)
+
+
 # 📊 EDA
 
 Para darle solución al proyecto, se verifica que las fuentes de los datos provienen de dos sitios diferentes. El primero consta de datos anonimizados de una empresa de telecomunicaciones en Bélgica, y el segundo conjunto de datos proviene de archivos en formato jsonl, los cuales contienen información de interacción de usuarios para un *e-commerce*.
