@@ -80,4 +80,22 @@ La mayoria de los eventos son interacciones a través de clics.
   </tr>
 </table>
 
+## 🤖 Modelado
+1. **Segmentación de usuarios**
+una vez entendido los datos se realiza lo que es la segmentacion de los clientes, para ello el set de datos se reduce a 50 componentes principales aplicando PCA
+
+🎯 Objetivos
+- Calcular puntuaciones de engagement de usuarios
+- Segmentar clientes según su comportamiento
+- Identificar patrones clave en interacciones
+- Crear segmentos de clientes accionables
+- 
+ ### Análisis de Componentes Principales
+
+## PCA aplicado para reducir dimensionalidad
+Ponderación de componentes:
+- PC_0: 50% (Más importante)
+- PC_1: 30%
+- PC_2: 15%
+- PC_3: 5%
 
