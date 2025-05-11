@@ -152,7 +152,9 @@ Sistema de generación basado en:
 Grupos de Riesgo:
 
 1: Cliente fiel (bajo riesgo)
+
 2: Cliente con señales de riesgo
+
 3: Cliente que requiere atención inmediata
 
 4. Estructura del Mensaje
@@ -167,6 +169,7 @@ Cada mensaje personalizado incluye:
 5. Características del Prompt
    
 -Formal y directo
+
 -Métricas específicas de uso
 
 
