@@ -22,6 +22,6 @@ Para darle solución al proyecto, se verifica que las fuentes de los datos provi
 1 **Churn
 para elaborar el EDA se llevo a acbo en visual Studio Code en un archivo .ipynb, evidenciando que se encuentran 11896 registros y 180 columnas los cuales estan anonimizados por cuestion de seguridad, y como target se encuentra la columna (y) la cual muestra si hay churn o no para un usuario, se obtiene que la probabilidad de churn del conjunto de datos es del 3.43%, y se le hizo un tratamiento a los clientes es decir comunicación con ellos al 75.74%.
 
-![Correlación de variables]([https://example.com/logo.png](https://github.com/NestorSaenz/prueba_tecnica_VF/blob/main/imagenes/correlacion.png))
+![Correlación de variables](https://github.com/NestorSaenz/prueba_tecnica_VF/blob/main/imagenes/correlacion.png)
 
 
