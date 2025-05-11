@@ -125,10 +125,44 @@ Para hacer la segmentación se utilizó Los vecinos mas cercanos KMEANS, obtenie
     </td>
   </tr>
 </table>
-con la siguiente métrica de evaluación *AUC-ROC*: 0.7108018085367853
+con la siguiente métrica de evaluación AUC-ROC: 0.7108018085367853
 
 En el siguiente grafico se observa la distribución de la segmentación
 
 ![Distribución de la Segmentación](https://github.com/NestorSaenz/prueba_tecnica_VF/blob/main/imagenes/grafica_segmentacion.png)
+
+## 2. **Mensajes personalizados**
+En este apartadon se implementa un sistema de generación automática de mensajes personalizados para clientes, utilizando Azure OpenAI y datos de segmentación de usuarios.
+🔄 Proceso
+1. Configuración Inicial
+- Inicialización del cliente Azure OpenAI
+- Configuración de credenciales y endpoint(por temas de tiempo deje las credenciales hardcodeadas en el código, pero van en las variables de entorno)
+- Importación de librerías necesarias
+
+2. Carga de datos
+- Carga de datos segmentados de clientes
+- Incluye métricas de engagement y probabilidad de abandono
+
+3. Generación de Mensajes
+Sistema de generación basado en:
+
+Grupos de Riesgo:
+1: Cliente fiel (bajo riesgo)
+2: Cliente con señales de riesgo
+3: Cliente que requiere atención inmediata
+
+4. Estructura del Mensaje
+Cada mensaje personalizado incluye:
+
+- Nivel de engagement del cliente
+- Probabilidad de abandono
+- Recomendaciones específicas de productos VoiceFlip
+- Firma profesional
+- Llamada a la acción
+  
+5. Características del Prompt
+-Formal y directo
+-Métricas específicas de uso
+
 
 
