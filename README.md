@@ -89,10 +89,10 @@ una vez entendido los datos se realiza lo que es la segmentacion de los clientes
 - Segmentar clientes según su comportamiento
 - Identificar patrones clave en interacciones
 - Crear segmentos de clientes accionables
-- 
+  
  ### Análisis de Componentes Principales
 
-## PCA aplicado para reducir dimensionalidad
+#### PCA aplicado para reducir dimensionalidad
 Ponderación de componentes:
 - PC_0: 50% (Más importante)
 - PC_1: 30%
