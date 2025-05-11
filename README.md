@@ -6,7 +6,7 @@
 
 Solución técnica para segmentación de miembros y generación de mensajes personalizados basados en comportamiento de churn.
 
-## 📌 Descripción
+# 📌 Descripción
 
 Este proyecto implementa:
 1. **Segmentación de miembros** mediante análisis PCA y clustering
@@ -15,7 +15,7 @@ Este proyecto implementa:
 
 ## 🛠️ Estructura del Proyecto
 
-## 📊 EDA:
+# 📊 EDA:
 
 Para darle solución al proyecto, se verifica que las fuentes de los datos provienen de dos sitios diferentes. El primero consta de datos anonimizados de una empresa de telecomunicaciones en Bélgica, y el segundo conjunto de datos proviene de archivos en formato jsonl, los cuales contienen información de interacción de usuarios para un *e-commerce*.
 
@@ -80,8 +80,8 @@ La mayoria de los eventos son interacciones a través de clics.
   </tr>
 </table>
 
-## 🤖 Modelado
-1. **Segmentación de usuarios**
+# 🤖 Modelado
+## 1. **Segmentación de usuarios**
 una vez entendido los datos se realiza lo que es la segmentacion de los clientes, para ello el set de datos se reduce a 50 componentes principales aplicando PCA
 
 🎯 Objetivos
