@@ -141,13 +141,16 @@ En este apartadon se implementa un sistema de generación automática de mensaje
 - Importación de librerías necesarias
 
 2. Carga de datos
+   
 - Carga de datos segmentados de clientes
 - Incluye métricas de engagement y probabilidad de abandono
 
 3. Generación de Mensajes
+   
 Sistema de generación basado en:
 
 Grupos de Riesgo:
+
 1: Cliente fiel (bajo riesgo)
 2: Cliente con señales de riesgo
 3: Cliente que requiere atención inmediata
@@ -162,6 +165,7 @@ Cada mensaje personalizado incluye:
 - Llamada a la acción
   
 5. Características del Prompt
+   
 -Formal y directo
 -Métricas específicas de uso
 
