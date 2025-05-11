@@ -57,6 +57,27 @@ se analiza la distribución de eventos tal como se muestra a continuación:
 
 
 
-La mayoria de los eventos son interacciones a través de clics .
+La mayoria de los eventos son interacciones a través de clics.
+
+## 📈 Dinámica de Interacciones
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/NestorSaenz/prueba_tecnica_VF/raw/main/imagenes/Analisis_temporal.png" width="100%" alt="Análisis Temporal">
+      <br>
+      <strong>Patrones Temporales</strong><br>
+      <em>Figura 3</em>: Distribución horaria/semanal de eventos<br>
+      <small>Picos identificados: {insights relevantes}</small>
+    </td>
+    <td align="center">
+      <img src="https://github.com/NestorSaenz/prueba_tecnica_VF/raw/main/imagenes/articulos_mas_interactuados.png" width="100%" alt="Top Artículos">
+      <br>
+      <strong>Top Contenidos</strong><br>
+      <em>Figura 4</em>: Artículos con mayor interacción<br>
+      <small>Dominancia de categoría: {categoría principal}</small>
+    </td>
+  </tr>
+</table>
 
 
