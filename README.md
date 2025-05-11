@@ -15,7 +15,7 @@ Este proyecto implementa:
 
 ## 🛠️ Estructura del Proyecto
 
-# 📊 EDA:
+# 📊 EDA
 
 Para darle solución al proyecto, se verifica que las fuentes de los datos provienen de dos sitios diferentes. El primero consta de datos anonimizados de una empresa de telecomunicaciones en Bélgica, y el segundo conjunto de datos proviene de archivos en formato jsonl, los cuales contienen información de interacción de usuarios para un *e-commerce*.
 
@@ -98,4 +98,32 @@ Ponderación de componentes:
 - PC_1: 30%
 - PC_2: 15%
 - PC_3: 5%
+
+#### Caracteristicas analizadas
+- Interacciones de usuarios
+- Frecuencia de sesiones
+- Patrones de actividad
+- Métricas de uso
+
+Para hacer la segmentación se utilizó Los vecinos mas cercanos KMEANS, obteniendo los siguientes resultados:
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/NestorSaenz/prueba_tecnica_VF/blob/main/imagenes/segmentacion.jpg" width="100%" alt="Resultados Segmentación">
+      <br>
+      <strong>Patrones Temporales</strong><br>
+      <em>Figura 3</em>: Resultados Segmentación<br>
+      <small></small>
+    </td>
+    <td align="center">
+      <img src="https://github.com/NestorSaenz/prueba_tecnica_VF/blob/main/imagenes/grafico_segmentacion.png" width="100%" alt="Gráfico de la Segmentación">
+      <br>
+      <strong>Top Contenidos</strong><br>
+      <em>Figura 4</em>: Gráfico de la Segmentación<br>
+      <small></small>
+    </td>
+  </tr>
+</table>
+
 
