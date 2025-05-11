@@ -32,9 +32,12 @@ Matriz de correlación de variables
 
 No se observa un fuerte correlación entre las variables
 
-2. **OTTO*
+2. **OTTO**
 
 este conjunto de datos esta en formato jsonl, es bastante pesado, para iniciar con su análisis se cargo en el ambiente por lotes con un chun_size=10000, esta dividido en train y test en conjunto aprozimadamente 230M de registros con 5 columnas. se observa una distribución de eventos tal como se muestra a continuación:
 
-![Distribución de eventos](https://github.com/NestorSaenz/prueba_tecnica_VF/blob/main/imagenes/distribucion_eventos.jpg
-)
+![Distribución de eventos](https://github.com/NestorSaenz/prueba_tecnica_VF/blob/main/imagenes/distribucion_eventos.jpg)
+La mayoria de los eventos son interacciones a través de clics .
+
+** -Duplicados y valores faltantes **
+No se observan valores faltantes, sin embargo hay varios duplicados, los cuales se proceden a borrarse
