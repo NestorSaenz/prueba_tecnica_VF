@@ -41,7 +41,7 @@ se analiza la distribución de eventos tal como se muestra a continuación:
 
 ## 🔍 Hallazgos Clave
 
-
+Visualmente se observa el análisis temporal y los articulos mas populares
 <table>
   <tr>
     <td align="center">
