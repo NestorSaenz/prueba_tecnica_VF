@@ -34,9 +34,11 @@ No se observa un fuerte correlación entre las variables
 
 2. **OTTO**
 
-este conjunto de datos esta en formato jsonl, es bastante pesado, para iniciar con su análisis se cargo en el ambiente por lotes con un chun_size=10000, esta dividido en train y test en conjunto aprozimadamente 230M de registros con 5 columnas. se observa una distribución de eventos tal como se muestra a continuación:
+``ste conjunto de datos esta en formato jsonl, es bastante pesado, para iniciar con su análisis se cargo en el ambiente por lotes con un chun_size=10000, esta dividido en train y test en conjunto aprozimadamente 230M de registros con 5 columnas. se observa una distribución de eventos tal como se muestra a continuación:
 
 ![Distribución de eventos](https://github.com/NestorSaenz/prueba_tecnica_VF/blob/main/imagenes/distribucion_eventos.jpg)
+![grafica_Distribución de eventos](https://github.com/NestorSaenz/prueba_tecnica_VF/blob/main/imagenes/grafica_distribucion_eventos.png)
+
 La mayoria de los eventos son interacciones a través de clics .
 
 ** -Duplicados y valores faltantes **
