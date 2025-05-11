@@ -68,14 +68,14 @@ La mayoria de los eventos son interacciones a través de clics.
       <br>
       <strong>Patrones Temporales</strong><br>
       <em>Figura 3</em>: Distribución horaria/semanal de eventos<br>
-      <small>Picos identificados: {insights relevantes}</small>
+      <small></small>
     </td>
     <td align="center">
       <img src="https://github.com/NestorSaenz/prueba_tecnica_VF/raw/main/imagenes/articulos_mas_interactuados.png" width="100%" alt="Top Artículos">
       <br>
       <strong>Top Contenidos</strong><br>
       <em>Figura 4</em>: Artículos con mayor interacción<br>
-      <small>Dominancia de categoría: {categoría principal}</small>
+      <small></small>
     </td>
   </tr>
 </table>
