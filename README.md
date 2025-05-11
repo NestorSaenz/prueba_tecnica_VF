@@ -23,7 +23,7 @@ Este proyecto implementa:
 Para darle solución al proyecto, se verifica que las fuentes de los datos provienen de dos sitios diferentes. El primero consta de datos anonimizados de una empresa de telecomunicaciones en Bélgica, y el segundo conjunto de datos proviene de archivos en formato jsonl, los cuales contienen información de interacción de usuarios para un *e-commerce*.
 
 1. **Churn**
-para elaborar el EDA se llevo a acbo en visual Studio Code en un archivo .ipynb, evidenciando que se encuentran 11896 registros y 180 columnas los cuales estan anonimizados por cuestion de seguridad, y como target se encuentra la columna (y) la cual muestra si hay churn o no para un usuario, se obtiene que la probabilidad de churn del conjunto de datos es del 3.43%, y se le hizo un tratamiento a los clientes es decir comunicación con ellos al 75.74%.
+Para elaborar el EDA se llevo a acbo en visual Studio Code en un archivo .ipynb, evidenciando que se encuentran 11896 registros y 180 columnas los cuales estan anonimizados por cuestion de seguridad, y como target se encuentra la columna (y) la cual muestra si hay churn o no para un usuario, se obtiene que la probabilidad de churn del conjunto de datos es del 3.43%, y se le hizo un tratamiento a los clientes es decir comunicación con ellos al 75.74%.
 
 A continuación, se visualiza una grafico de barras con las correlaciones absolutas de las variables con la columna objetivo o traget
 
@@ -85,7 +85,7 @@ La mayoria de los eventos son interacciones a través de clics.
 
 # 🤖 Modelado
 ## 1. **Segmentación de usuarios**
-una vez entendido los datos se realiza lo que es la segmentacion de los clientes, para ello el set de datos se reduce a 50 componentes principales aplicando PCA
+Una vez entendido los datos se realiza lo que es la segmentacion de los clientes, para ello el set de datos se reduce a 50 componentes principales aplicando PCA
 
 🎯 Objetivos
 - Calcular puntuaciones de engagement de usuarios
@@ -128,7 +128,7 @@ Para hacer la segmentación se utilizó Los vecinos mas cercanos KMEANS, obtenie
     </td>
   </tr>
 </table>
-con la siguiente métrica de evaluación AUC-ROC: 0.7108018085367853
+Con la siguiente métrica de evaluación AUC-ROC: 0.7108018085367853
 
 En el siguiente grafico se observa la distribución de la segmentación
 
