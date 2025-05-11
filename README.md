@@ -38,14 +38,17 @@ Este conjunto de datos esta en formato jsonl, es bastante pesado, para iniciar c
 
 ## 🔍 Hallazgos Clave
 
+
 <table>
   <tr>
-    <td><img src="[https://github.com/NestorSaenz/prueba_tecnica_VF/blob/main/imagenes/distribucion_eventos.jpg"] width="100%" alt="Distribución de eventos"></td>
-    <td><img src="[https://github.com/NestorSaenz/prueba_tecnica_VF/blob/main/imagenes/grafica_distribucion_eventos.png]" width="100%" alt="grafica_Distribución de eventos"></td>
-  </tr>
-  <tr>
-    <td align="center"><em>Distribución de eventos</em></td>
-    <td align="center"><em>Grafica Distribución de eventos</em></td>
+    <td align="center">
+      <img src="https://github.com/NestorSaenz/prueba_tecnica_VF/raw/main/imagenes/distribucion_eventos.jpg" width="95%" alt="Distribución de Eventos">
+      <br><em>Figura 1: Distribución general de eventos</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/NestorSaenz/prueba_tecnica_VF/raw/main/imagenes/grafica_distribucion_eventos.png" width="95%" alt="Gráfica de Distribución">
+      <br><em>Figura 2: Detalle de distribución por categoría</em>
+    </td>
   </tr>
 </table>
 
